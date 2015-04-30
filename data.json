@@ -2,6 +2,7 @@
   "locations" : [
     {"location" : "Tokyo"},
     {"location" : "New York"},
-    {"location" : "Minneapolis"}
+    {"location" : "Minneapolis"},
+    {"location" : "Atlanta"}
   ]
 }
