@@ -1,6 +1,6 @@
 {
   "locations" : [
-    {"location" : "Tokyo"},
+    {"location" : "Paris" , "population" : 2200000},
     {"location" : "New York"},
     {"location" : "Minneapolis"},
     {"location" : "Atlanta"}
